@@ -1,4 +1,9 @@
-# 📊 Airbnb Listings & Performance Dashboard (Power BI)
+<img width="1886" height="991" alt="Screenshot 2026-10-18 191519" src="https://github.com/user-attachments/assets/bbf8fe7b-8d2c-46a7-a7e7-afe8a00d2ce0" /># 📊 Airbnb Listings & Performance Dashboard (Power BI)
+
+![Uploading Screenshot 2026-10-18 1<img width="1893" height="971" alt="Screenshot 2026-10-18 191551" src="https://github.com/user-attachments/assets/bc1f9693-edfa-4f47-9f76-b6c08efd599f" />
+91519.png…]()<img width="1905" height="983" alt="Screenshot 2026-10-18 191606" src="https://github.com/user-attachments/assets/2eebbece-e6f9-4940-8835-be4bb707eb34" />
+
+
 
 An interactive Power BI dashboard analyzing Airbnb listings, pricing trends, occupancy rates, and customer reviews.
 
